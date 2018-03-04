@@ -1,0 +1,157 @@
+body{
+background-image: url("https://s-media-cache-ak0.pinimg.com/originals/d9/93/f8/d993f80c1f73fee0699a7a63f9136f27.jpg");
+  
+
+}
+.game{
+	width:1280px;
+    	height:720px;
+	position: absolute;
+	left: 20%;
+}
+
+.btn {
+	
+	width: 800px;
+	height: 70px;
+	text-align: center;
+	background-color: blue;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:yellow;
+	font-family: sans-serif;
+	font-size:50px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #2f6627;
+}
+.btn:hover {
+	background-color:#5cbf2a;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+input[type=checkbox] {
+	position: absolute;
+	top: -9999px;
+	left: -9999px;
+	
+}
+
+input[type=submit]{
+	border-radius: 5px;
+    border: 0;
+    width: 80px;
+    height:25px;
+    font-family: sans-serif;
+	font-size: 15px;
+	background-color: blue;
+	color: yellow;
+
+   
+}
+
+#total{
+	border-radius: 25px;
+	border-style: solid;
+	border-width: 3px;
+	width:160px;
+	height: 220px;
+	text-align: center;
+	background-color: blue;
+	margin-left: 30px;
+	margin-top: 30px;
+	float: left;
+}
+
+.card{
+	width:140px;
+	height: 195px;
+	border-radius: 25px;
+	text-align: center;
+	background-color: red;
+	margin-left:9px;
+}
+
+input[type=checkbox]:checked ~ #one{
+	background-image: url("https://vignette4.wikia.nocookie.net/heman/images/b/bd/HE-MAN-1-620x577.jpg/revision/latest?cb=20161202003302");
+	background-size: 160px 220px;
+}
+input[type=checkbox]:checked ~ #two{
+	background-image: url("https://upload.wikimedia.org/wikipedia/en/1/17/Batman-BenAffleck.jpg");
+	background-size: 160px 220px;
+}
+input[type=checkbox]:checked ~ #three{
+	background-image: url("https://vignette3.wikia.nocookie.net/superman/images/2/27/Superman-dcuo.jpg/revision/latest?cb=20110901025125");
+	background-size: 160px 220px;
+}
+input[type=checkbox]:checked ~ #four{
+	background-image: url("https://static1.comicvine.com/uploads/original/11119/111193078/5379664-3693093743-16841.jpg");
+	background-size: 160px 220px;
+}
+input[type=checkbox]:checked ~ #five{
+	background-image: url("https://static.comicvine.com/uploads/original/11111/111116692/3205392-4837399491-30520.jpg");
+	background-size: 160px 220px;
+}
+input[type=checkbox]:checked ~ #six{
+	background-image: url("http://pre09.deviantart.net/1a84/th/pre/i/2011/083/0/9/iron_man_by_rabidwater-d3ccsl4.jpg");
+	background-size: 160px 220px;
+}
+input[type=checkbox]:checked ~ #seven{
+	background-image: url("http://puppsfreestuff.com/files/HulkJonasThornqvistHeadShotNew800x600.jpg");
+	background-size: 160px 220px;
+}
+input[type=checkbox]:checked ~ #eight{
+	background-image: url("http://www.cbr.com/wp-content/uploads/2017/01/Wolverine8.jpg");
+	background-size: 160px 220px;
+}
+input[type=checkbox]:checked ~ #nine{
+	background-image: url("http://assets1.ignimgs.com/2016/02/07/deadpooljpg-0d7bb9_1280w.jpg");
+	background-size: 160px 220px;
+}
+input[type=checkbox]:checked ~ #ten{
+	background-image: url("https://vignette4.wikia.nocookie.net/heman/images/b/bd/HE-MAN-1-620x577.jpg/revision/latest?cb=20161202003302");
+	background-size: 160px 220px;
+}
+input[type=checkbox]:checked ~ #eleven{
+	background-image: url("https://vignette4.wikia.nocookie.net/heman/images/b/bd/HE-MAN-1-620x577.jpg/revision/latest?cb=20161202003302");
+	background-size: 160px 220px;
+}
+input[type=checkbox]:checked ~ #twelve{
+	background-image: url("https://vignette4.wikia.nocookie.net/heman/images/b/bd/HE-MAN-1-620x577.jpg/revision/latest?cb=20161202003302");
+	background-size: 160px 220px;
+}
+img{
+	border-radius: 25px;
+	height:170px;
+	width:130px;
+}
+#click{
+	font-weight:bold;
+
+}
+span{
+	background-color: yellow;
+	border-radius: 4px;
+}
+h1{
+	font-family: sans-serif;
+	font-size: 65px;
+	color: yellow;
+}
+
+h2{
+	font-family: sans-serif;
+	color: yellow;
+}
+.title{
+	background-color: blue;
+	text-align: center;
+}
